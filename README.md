@@ -1,5 +1,5 @@
 # tech-resources
-Curating a list of resources for various careers in Tech including software engineering/web development, UX design, project management, data analysis, etc. Also including opportunities for women, Black people, and BIPOC folx.
+Curating a list of resources for various careers in Tech including software engineering/web development, UX design, project management, data analysis, etc. Also including opportunities for women and Black, Indigenous, & POC folx
 
 ## Web Development
 * [The Odin Project Free Full-Stack Curriculum](https://www.theodinproject.com/): Free full-stack coding bootcamps for HTML/CSS/JavaScript and RubyOnRails. A hands-on introduction to all of the essential tools you'll need to build real, working websites.
@@ -14,7 +14,7 @@ Curating a list of resources for various careers in Tech including software engi
 * [Chingu](https://www.chingu.io/): Collaborate and gain real developer experience on a 6-week remote team project. Roles include Software Developer, Product Owner, UI/UX Designer, and Data Scientist.
 * [EntryLevel](https://www.entrylevel.net/): Participate in educational virtual work experiences with real-work assessments, mentorship, a cohort of peers, and a portfolio of your work. Programs in Data Analysis, Venture Capital Analysis, Product Management, Financial Analysis, UX Design, Growth Marketing, and Scrum Master.
 
-## Opportunities for Women, Black people, & BIPOC folx:
+## Opportunities for women and Black, Indigenous, & POC folx
 * [The Mom Project RISE Scholarship](https://work.themomproject.com/riseabout): Scholarship providing access to certifications to moms and women of color. Certs in IT, Salesforce Admin, Data Analytics, Digital Marketing, UX Design, IT Automation, and Project Management
 * [Mentor Me Collective Fellowship](https://www.mentormecollective.org/fellowship): Free 4-Month Mentorship Program for First-Generation Black & Latinx Folks looking to enter the Tech Space.
 

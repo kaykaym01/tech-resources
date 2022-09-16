@@ -22,6 +22,12 @@ Curating a list of resources for various careers in Tech including software engi
 * [Latinas in Tech](https://latinasintech.org/): Latinas in Tech is a non-profit organization with the mission to connect, support, and empower Latina women working in technology and a vision to achieve fair representation in leadership positions. Opportunities via events, job boards, mentoring, and entrepreneurship programs.
 * [Techqueria](https://techqueria.org/): Nonprofit serving the largest global community of Latinx professionals in Tech with resources and support to further support careers in the tech industry.
 
+## Job Search & Prep
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/): Free curated interview preparation materials for busy people. Brought to you by the author of Blind 75.
+* [Data Structures & Coding Patterns for Tech Interviews](https://emre.me/categories/): Free articles on data structures, algorithms, and coding patterns (sliding window, two pointer, etc.) for technical interviews
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): A list of companies (or teams) that don't do "whiteboard" interviews.
+* [No Whiteboard](https://www.nowhiteboard.org/): Find companies with no whiteboard interviews that match up with what you care about.
+
 ## Links to Other Resource Lists
 * [Web Dev Resources](https://github.com/karantondare/web-dev-resources)
 * [Top 20 Web Dev Learning Resources: From Beginner to Advanced](https://dev.to/alexomeyer/top-20-web-development-learning-resources-from-beginner-to-advanced-4h8a)
